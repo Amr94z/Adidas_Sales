@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
 
 # 🎯 Adidas Sales Dashboard
 
@@ -68,5 +68,5 @@ Pivot Tables -  Power Query -  Slicers -  Advanced Charts -  Dashboard UI
 ✅ **Online dominates** - West Gear wins In-store
 ✅ **Prioritize**: Street Footwear + Women's Apparel
 
-*Interactive -  Insightful -  Ready-to-use*
+
 
